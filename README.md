@@ -1,8 +1,8 @@
 
-<H3>NAME : Pradeep Kumar G</H3>
-<H3>REGISTER NO : 212223230150</H3>
+<H3>NAME : NARESH.R</H3>
+<H3>REGISTER NO : 212223240104</H3>
 <H3>EX. NO.4</H3>
-<H3>DATE : 13/10/2025</H3>
+<H3>DATE : 17-10-25</H3>
 <H1 ALIGN =CENTER>Implementation of MLP with Backpropagation for Multiclassification</H1>
 <H3>Aim:</H3>
 To implement a Multilayer Perceptron for Multi classification
